@@ -1,1 +1,2 @@
-# Deteccao-de-Anomalias-em-Audio-Industrial
+# Detecção de Anomalias em Áudio Industrial
+
