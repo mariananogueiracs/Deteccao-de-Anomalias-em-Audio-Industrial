@@ -21,7 +21,10 @@ Com o avanço da Indústria 4.0 e das *Smart Factories*, a integração de tecno
 Palavras-chave: detecção de anomalias; classificação de áudio; processamento de sinais; aprendizado de máquina.
 
 
-## Introdução e Revisão Bibliográfica
+## Introdução
+
+
+## Revisão Bibliográfica
 
 
 ## Fundamentos Teóricos
