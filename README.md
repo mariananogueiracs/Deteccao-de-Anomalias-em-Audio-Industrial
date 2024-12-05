@@ -2,6 +2,8 @@
 
 Seminário da disciplina de Processamento Digital de Sinais e Imagens, ministrada pelo professor Aldo Díaz.
 
+Download do relatório em PDF: https://github.com/user-attachments/files/18015457/Relatorio.Seminario.PDSI.pdf
+
 <img src="https://github.com/user-attachments/assets/82877474-1c77-4966-9580-bffd18867913" alt="header" width="1000" height="400"/>
 
 
